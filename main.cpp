@@ -8,8 +8,8 @@ using namespace std;
 int main()
 {
 PrimerParcial PrimerParcial;
-PrimerParcial.ejercicio1();
-//PrimerParcial.ejercicio2();
+//PrimerParcial.ejercicio1();
+PrimerParcial.ejercicio2();
 //PrimerParcial.ejercicio3();
 //PrimerParcial.ejercicio4();
   return 0;

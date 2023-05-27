@@ -105,10 +105,51 @@ for ( int j = 0; j < largoDelArchivo; j++){
 
 void PrimerParcial::ejercicio2()
 {
+/*    ResumenDiarioArchivo resumendiarioArch;
 //A partir de un IDEstación que se ingresa como parámetro, mostrar los meses en los que no se haya vendido Nafta Súper en esa estación.
-    ResumenDiarioArchivo resumendiarioArch;
-    ResumenDiario resDiario;
 
+   ResumenDiarioArchivo resDiarioArch;
+   int idEstacion;
+   int vecMeses[12] = {};
+   int largoDelArchivo = resDiarioArch.getCantidad();
+
+cout <<"ingrese el id de la estacion: " << endl;
+cin >> idEstacion;
+
+for (int i = 0; i < largoDelArchivo; i++){
+
+    if (  resDiarioArch.leer(i).getIDEstacion() == idEstacion ) {
+
+        if ( resDiarioArch.leer(i).getIDTipoCombustible() != 1 && resDiarioArch.leer(i).getLitrosIniciales() == resDiarioArch.leer(i).getLitrosFinales() ) {  vecMeses[ resDiarioArch.leer(i).getFecha().getMes() - 1] = 1;  }
+
+
+    }
+
+
+
+
+
+
+}
+
+
+
+for (int j = 0; j < 12; j++){
+
+if ( vecMeses[j] == 0 ) cout << " mes que no se vendio nafta super: " <<j+1 << endl;
+
+
+}
+
+
+
+
+
+
+}
+*/
+    ResumenDiario resDiario;
+ ResumenDiarioArchivo resumendiarioArch;
     int idEstacionDeServicio;
     int vecMeses[12] = {};
 
@@ -159,8 +200,6 @@ void PrimerParcial::ejercicio2()
             cout << x + 1 << endl;
         }
     }
-
-
 
 
 }

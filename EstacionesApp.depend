@@ -49,3 +49,36 @@
 	"Fecha.h"
 	<iostream>
 
+1684939509 source:c:\users\nico\documents\github\parcial sobre estaciones de servicio\modelo-2-primer-parcial-laboratorio-2\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1684939509 c:\users\nico\documents\github\parcial sobre estaciones de servicio\modelo-2-primer-parcial-laboratorio-2\fecha.h
+
+1684939509 source:c:\users\nico\documents\github\parcial sobre estaciones de servicio\modelo-2-primer-parcial-laboratorio-2\resumendiario.cpp
+	"ResumenDiario.h"
+
+1684939509 c:\users\nico\documents\github\parcial sobre estaciones de servicio\modelo-2-primer-parcial-laboratorio-2\resumendiario.h
+	"Fecha.h"
+
+1684939509 source:c:\users\nico\documents\github\parcial sobre estaciones de servicio\modelo-2-primer-parcial-laboratorio-2\resumendiarioarchivo.cpp
+	<iostream>
+	"ResumenDiarioArchivo.h"
+
+1684939509 c:\users\nico\documents\github\parcial sobre estaciones de servicio\modelo-2-primer-parcial-laboratorio-2\resumendiarioarchivo.h
+	"ResumenDiario.h"
+
+1684941701 source:c:\users\nico\documents\github\parcial sobre estaciones de servicio\modelo-2-primer-parcial-laboratorio-2\main.cpp
+	<iostream>
+	"ResumenDiarioArchivo.h"
+	"PrimerParcial.h"
+
+1684939509 c:\users\nico\documents\github\parcial sobre estaciones de servicio\modelo-2-primer-parcial-laboratorio-2\include\primerparcial.h
+
+1684943021 source:c:\users\nico\documents\github\parcial sobre estaciones de servicio\modelo-2-primer-parcial-laboratorio-2\primerparcial.cpp
+	"PrimerParcial.h"
+	"ResumenDiario.h"
+	"ResumenDiarioArchivo.h"
+	"Fecha.h"
+	<iostream>
+
